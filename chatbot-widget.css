@@ -117,7 +117,7 @@ color: #000000;
       background-color: #d8f4fc;
     }
 .chatbot-header {
-color: white; /* Set the text color */
+color: black; /* Set the text color */
 background-color:#d8f4fc ;
 padding: 16px; /* Add some padding for a nicer look */
 font-weight: bold; /* Make the text bold */
@@ -204,7 +204,7 @@ vertical-align: middle;
 }
 #intro{
       bottom: 300px;
-      color: white;
+      color: black;
       top: auto;
     }
 
